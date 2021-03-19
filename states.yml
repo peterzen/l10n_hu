@@ -1,0 +1,8 @@
+---
+- name: Baranya
+  country_id: "348"
+  id: "231"
+  abbr: BA
+
+-- based on the above template fill in the rest from https://en.wikipedia.org/wiki/Counties_of_Hungary#Codes_of_the_counties
+-- the `id' field is the NUTS code, without "HU"
